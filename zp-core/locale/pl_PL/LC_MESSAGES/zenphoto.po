@@ -4339,7 +4339,7 @@ msgstr "Spróbuj dodawać <a href=\"javascript:switchUploader('admin-upload.php?
 
 #: /var/www/html/zenphoto-svn/zp-core/admin-upload.php:541
 msgid "There are no albums to which you can upload."
-msgstr "Brak albumów do, których masz prawo dodawać."
+msgstr "Brak albumów, do których masz prawo dodawać."
 
 #: /var/www/html/zenphoto-svn/zp-core/404.php:10
 msgid "Zenphoto Error:</strong> the requested object was not found."
@@ -15136,7 +15136,7 @@ msgstr "Wyczyść pamięć RSS"
 #~ msgid ""
 #~ "Adds a link to allow requesting a single image print through Shutterfly."
 #~ msgstr ""
-#~ "Dodaj link aby pozwolić na zamówienie pojedyńczej odbitki poprzez "
+#~ "Dodaj link, aby pozwolić na zamówienie pojedyńczej odbitki poprzez "
 #~ "Shutterfly."
 
 #~ msgid "Paypal Integration for Zenphoto."
@@ -15290,7 +15290,7 @@ msgstr "Wyczyść pamięć RSS"
 #~ msgstr "Opcje wtyczki"
 
 #~ msgid "Click the images for a larger version"
-#~ msgstr "Kliknij zdjęcia aby zobaczyć większą wersję"
+#~ msgstr "Kliknij zdjęcia, aby zobaczyć większą wersję"
 
 #~ msgid "<strong>Upload</strong> pictures."
 #~ msgstr "<strong>Wgraj</strong> zdjęcia."
@@ -15315,20 +15315,20 @@ msgstr "Wyczyść pamięć RSS"
 #~ "pliku <code>functions.php</code>"
 
 #~ msgid "Click to add a title..."
-#~ msgstr "Kliknij aby dodać tytuł..."
+#~ msgstr "Kliknij, aby dodać tytuł..."
 
 #~ msgid "Click to add tags..."
-#~ msgstr "Kliknij aby dodać tagi..."
+#~ msgstr "Kliknij, aby dodać tagi..."
 
 #~ msgid "Click to add a description..."
-#~ msgstr "Kliknij aby dodać opis..."
+#~ msgstr "Kliknij, aby dodać opis..."
 
 #~ msgid "Click to edit description"
-#~ msgstr "Kliknij aby edytować opis"
+#~ msgstr "Kliknij, aby edytować opis"
 
 #~ msgid "Currently editing something else, save or cancel to edit this."
 #~ msgstr ""
-#~ "Obecnie edytowany jest inny obszar, zapisz albo cofnij aby edytować tutaj."
+#~ "Obecnie edytowany jest inny obszar, zapisz albo cofnij, aby edytować tutaj."
 
 #~ msgid "Requires flvplayer plugin."
 #~ msgstr "Wymaga wtyczki flvplayer."
@@ -15401,7 +15401,7 @@ msgstr "Wyczyść pamięć RSS"
 #~ msgstr "Kliknięcie"
 
 #~ msgid "Sorry, no matches for <em>"
-#~ msgstr "Przepraszamy brak wyników dla <em>"
+#~ msgstr "Przepraszamy, brak wyników dla <em>"
 
 #~ msgid "</em>. Try refining your search."
 #~ msgstr "</em>. Spróbuj wyszukać inaczej."
@@ -15410,7 +15410,7 @@ msgstr "Wyczyść pamięć RSS"
 #~ msgstr "Photo Template</a> z"
 
 #~ msgid "Refreshing cache for Gallery"
-#~ msgstr "Odświerzanie pamięci podręcznej Galerii"
+#~ msgstr "Odświeżanie pamięci podręcznej Galerii"
 
 #~ msgid "new tag"
 #~ msgstr "nowy tag"
@@ -15441,7 +15441,7 @@ msgstr "Wyczyść pamięć RSS"
 #~ "to edit its description and data, or"
 #~ msgstr ""
 #~ "Ustaw albumy w takim porządku, w jakim chcesz aby były wyświetlane. "
-#~ "Wybierz album aby edytować jego opis, dane lub"
+#~ "Wybierz album, aby edytować jego opis, dane lub"
 
 #~ msgid "it is corrupt."
 #~ msgstr "jest uszkodzony."
